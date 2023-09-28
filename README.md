@@ -31,9 +31,9 @@ Senior Product Owner
 Senior Technical Product Manager
 - Collaborated with 5+ cross-functional teams to conduct comprehensive product integration testing amid changes, ensuring smooth and uninterrupted operation of the product, building user confidence and trust.
 - API Marketplace Launch V3
-- SEO Optimization for API Marketplace
+- FX, RTP and Private label credit card (PLCC)
 - Customer Feedback Integration
-- Migration from HA Proxy to F5
+- Open Documentation
 - Automated User Onboarding in Sandbox Environment
 - PCF Migration of APIs as Cloud Enablement for Developer Portal
 
